@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">PDFGen</string>
+    <string name="app_name">PDF Gen</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="pdf_gen">WELCOME</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="bought_date">Bought Date</string>
+    <string name="enter_bought_date">Enter Bought Date</string>
+    <string name="bought_item">Bought Item</string>
+    <string name="enter_bought_item">Enter Bought Item</string>
+    <string name="company">Company</string>
+    <string name="enter_company_name">Enter Company Name</string>
+    <string name="date">Date</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="company_logo">Company Logo</string>
 </resources>
